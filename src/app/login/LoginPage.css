@@ -1,0 +1,124 @@
+:root:root {
+    /* --adm-color-primary: #000000; */
+    --adm-font-family: 'NotoSans HK';
+}
+
+/* Container styles */
+.login-container {
+}
+
+/* Backdrop styles */
+.backdrop {
+
+}
+
+#backdrop-image {
+}
+
+/* Content container */
+.content-container {
+}
+
+.logo-section {
+}
+
+.logo-wrapper {
+
+}
+
+#logo-image {
+
+}
+
+/* Form container styles */
+.form-container {
+
+}
+
+.login-form {
+
+}
+
+.ant-form {
+
+}
+
+
+.ant-form-item {
+}
+
+.ant-form-item-field {
+    border-color: black;
+    border-width: 1px;
+    border-radius: 8px
+}
+
+
+/* Input field styles */
+.input-field {
+    height: 52px;
+}
+
+.input-field-password svg {
+
+}
+
+.input-field::placeholder {
+
+}
+
+.input-field-password {
+    height: 52px;
+}
+
+.input-field-password>input::placeholder {
+}
+
+/* Password toggle button styles */
+.password-toggle {
+}
+
+/* .eye-icon {
+    color: #999;
+} */
+.login-button-container {
+}
+
+.login-button-container button {
+
+}
+
+/* Login button styles */
+#login-btn {
+}
+
+.login-btn span {
+
+}
+
+.login-btn:hover {
+
+}
+
+#login-svg {
+
+}
+
+#login-svg>svg {
+
+}
+
+/* Create account section styles */
+#create-account {
+}
+
+.create-account-button {
+}
+
+.create-account-button:hover {
+
+}
+
+#signup-button {
+
+}
