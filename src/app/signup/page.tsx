@@ -168,7 +168,13 @@ const SignupPage: React.FC = () => {
             </div>
             <div id="login-account" className="absolute bottom-0 w-full h-20">
                 <Button type="link" onClick={handleLogin} id="login-button"
-                        style={{backgroundColor: "#FFF1D0", width: "100%", height: "100%", padding: "5px"}}>
+                        style={{
+                            borderRadius: 0,
+                            backgroundColor: "#FFF1D0",
+                            width: "100%",
+                            height: "100%",
+                            padding: "5px"
+                        }}>
                     <h2 className="text-[#131313] text-4xl font-black text-center">登入帳戶</h2>
                 </Button>
             </div>
